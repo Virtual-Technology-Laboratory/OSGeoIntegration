@@ -1,0 +1,1 @@
+C:\apps\Unity\Editor\Unity.exe -projectPath "%cd%"

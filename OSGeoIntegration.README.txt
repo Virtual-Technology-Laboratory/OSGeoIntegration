@@ -1,0 +1,29 @@
+
+OSGeo Integration
+=================
+
+Contains example projects demonstrating how gdal and proj.4 can be integrated 
+into Unity3d. 
+
+Example Project 01 - Getting Started
+------------------------------------
+Contains a barebones project utilizing gdal and proj.4 Take note of where the 
+dlls are placed to integrate gdal and proj.4 into your own projects.
+
+
+Example Project 02 - Reading Writing Geotiffs
+---------------------------------------------
+Demonstrates how to read and write geotiffs using gdal csharp wrapper. Provides 
+editor extensions to create terrains from read power-of-2-plus-1 sized geotiffs 
+and to write terrains to geotiffs.
+
+
+Example Project 03 - Non-square Geotiffs
+----------------------------------------
+Example 2 extended to non-power-of-2-plus-1 geotiffs.
+
+
+Caveats
+-------
+These wrappers have not been tested with GNU/Linux or OS X. They also might not
+work with web-builds.

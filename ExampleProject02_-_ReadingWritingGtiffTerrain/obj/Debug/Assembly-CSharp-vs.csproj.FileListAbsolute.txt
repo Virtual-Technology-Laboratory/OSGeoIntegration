@@ -1,0 +1,17 @@
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\gdalconst_csharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\gdal_csharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\ogr_csharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\osr_csharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\proj_api.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\UnityEditor.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\UnityEngine.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\Mono.Cecil.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\nunit.framework.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\Unity.DataContract.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\obj\Debug\Assembly-CSharp.dll
+D:\ownCloud\documents\Documentation\WorldBuilding\OSGeoIntegration\ExampleProject\obj\Debug\Assembly-CSharp.pdb
